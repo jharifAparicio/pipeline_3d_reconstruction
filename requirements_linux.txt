@@ -1,0 +1,17 @@
+# --- Base y Visión ---
+numpy
+opencv-python
+pillow
+matplotlib
+
+# --- Fase 1: Detección ---
+ultralytics
+
+# --- Fase 2: Segmentación y Profundidad ---
+segment-anything
+timm
+huggingface_hub
+
+# --- Fase 3: 3D (TripoSR) ---
+trimesh
+einops

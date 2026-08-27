@@ -1,0 +1,38 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Resultados y salidas pesadas del pipeline
+outputs/
+*.obj
+*.ply
+*.npy
+*.pth
+*.ckpt
+
+# Caché de modelos de Hugging Face y PyTorch
+.cache/
+huggingface/
+torch/
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# pesos 
+checkpoints/
+TripoSR/
+weights/
+yolo*
